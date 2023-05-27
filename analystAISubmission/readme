@@ -1,0 +1,2 @@
+The scraping_multiple.py file fulfills task 1 requirements. It will create a csv file which can be then used with the file task2_multiple.py.
+the task2 python file will scrape data from individual bags page, some attributes might remain incomplete because there are some pages on amazon that have much different selectors.
